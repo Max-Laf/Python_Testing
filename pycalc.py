@@ -20,7 +20,7 @@ BUTTON_SIZE = 40
 
 class PyCalcWindow(QMainWindow):
 
-    
+    #Commentaire de test
     def __init__(self):
         super().__init__()
         self.setWindowTitle("PyCalc")
